@@ -1,0 +1,39 @@
+
+little articulation between each of the intro classes. some general sense, but results would have been much better if they had been conceived  together (not just in sequence, as they appear to have been)
+
+
+most of the difficulties appeared with the second R class (which was supposed to bring all the previous concepts together). much harder than it would have needed to be
+
+I would suggest using one single example (e.g. the medici family network) across all the refresher courses. this should be a concrete network that students become familiar with, in concrete terms, before the more abstracts concepts are examined
+
+also last class was r epetitive, but not in a way that encourages acquisition. a lot of time was spent on the repetitions, and then actual applications were rushed through.
+some concepts (e.g. "incidence matrix" were not discussed in any of the 2 first class groups, and suddenly mentioned repeatedly in the 3rd)
+
+also more technical problems:
+- files kept moving around in dropbox folder
+- no support was given to students who had difficulty uploading the files into R. the general status of students was not taken into account, nearly at all
+- pronunciation problems inward
+- going through pre-programmed code while students watch is not an effective training method
+- previous classes were already late, this snowballed through the day
+- general workload for students AND presenters, not light. but this does not explain all the problems
+
+the problem, I would say, is not insufficient time to cover all content - time would have been enough if things had been better structured. without repetitions and cycking back and forth through different examples, it would have been possible to cover the whole material faster and in a much more engaging way.
+
+as a test case:
+the term "incidence" doesn't appear in any of the slides from class 1 and 2
+on 3 a relatively advanced application appears and is key to progressing with the lesson
+and on the code for 3, the concept is everywhere.
+
+i might have just missed the explanation, but didn't see any systematic presentation of relevant types of matrices - adjacency, incidence, distance, more
+
+as also test case, number of slides:
+1
+2
+3 131! plus vast vast code 
+entirely unbalanced content load, very poorly divided between 1 2 and 3
+
+in general, decreasing class quality over the first 2 days
+
+
+if can't fit everything with just one example, and time limitations are note flexible, it would be better to cover some of the most important concepts --- then clearly indicate which ones were not covered, for self-study (which is expected in tight workshops anyway)
+(or find/manufacture an example/set that allows covering most relevant concepts)
